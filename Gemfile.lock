@@ -6,3 +6,9 @@ PLATFORMS
   java
 
 DEPENDENCIES
+
+RUBY VERSION
+   ruby 1.9.3p392 (jruby 1.7.16.1)
+
+BUNDLED WITH
+   1.14.5
